@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="deathloop-savedata-checksum-fixer-cli/deathloop-savedata-checksum-fixer-cli.csproj" Id="7e0e181d-90cf-4c24-8ebe-3dc649cbc38b" />
+  <Project Path="QualityControl.xUnit/QualityControl.xUnit.csproj" Id="f7114976-6ccb-4f51-b1a2-4ce2e639ed9a" />
+</Solution>

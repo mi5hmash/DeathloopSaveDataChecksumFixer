@@ -1,0 +1,6 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Treat these files as binary
+*/Resources/console-title.data   binary
+*/Resources/pc-title.data        binary
