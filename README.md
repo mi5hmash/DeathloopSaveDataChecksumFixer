@@ -33,7 +33,7 @@ Options:
   -p <input_folder_path>  Path to folder containing SaveData files
   -u <user_id>            New User ID (optional)
   -s                      Switch platform (convert between console and PC SaveData formats)
-  -v                      Verbose output
+  -q                      Don't wait for user input to exit after operation completes (auto-close)
   -h                      Show this help message
 ```
 
